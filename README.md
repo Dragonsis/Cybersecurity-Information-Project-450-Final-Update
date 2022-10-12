@@ -1,8 +1,5 @@
 # Cybersecurity-Information-Project-450-Final-Update
 
-This is a project for my BS in CIT. Thank you
-
-Hello, Please review my html code. Thanks
 
 <html>
 
@@ -23,8 +20,8 @@ Hello, Please review my html code. Thanks
                     Ultimate this website should improve anyone's confidence and ability to make good cyber choices and stay safe in cyberspace. </p>
                     <p style= "color:white; background-color:rgb(9, 7, 126)"><b> NAU CIT Information</b></p>             
                     <a href= "https://catalog.nau.edu/Catalog/details?plan=PLCITBA"><button>Computer Information Technology, Bachelor of Arts</button> </a> 
-                    <a href= "https://catalog.nau.edu/Catalog/details?plan=PLCITBS&mobile=true"><button>Computer Information Technology, Bachelor of Science</button> </a> 
-                    <hr/></a>    
+                    <a href= "https://catalog.nau.edu/Catalog/details?plan=PLCITBS&mobile=true"><button>Computer Information Technology, Bachelor of Science</button>  
+                    <hr/> 
                            <br>
                        
                     <p><h2>What is Cybersecurity?</h2><br> 
