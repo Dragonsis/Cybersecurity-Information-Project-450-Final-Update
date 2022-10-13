@@ -73,7 +73,6 @@ Hello, Please review my html code. Thanks
                                 <input type="text" name="q" >
                                 <button>Search Google</button>
                                 </form>
-</body>
 
 
 <!--<footer>Antigone H. Norgaard
