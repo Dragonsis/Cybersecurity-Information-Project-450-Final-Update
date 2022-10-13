@@ -1,5 +1,6 @@
 # Cybersecurity-Information-Project-450-Final-Update
 
+Hello, Please review my html code. Thanks
 
 <html>
 
@@ -20,8 +21,8 @@
                     Ultimate this website should improve anyone's confidence and ability to make good cyber choices and stay safe in cyberspace. </p>
                     <p style= "color:white; background-color:rgb(9, 7, 126)"><b> NAU CIT Information</b></p>             
                     <a href= "https://catalog.nau.edu/Catalog/details?plan=PLCITBA"><button>Computer Information Technology, Bachelor of Arts</button> </a> 
-                    <a href= "https://catalog.nau.edu/Catalog/details?plan=PLCITBS&mobile=true"><button>Computer Information Technology, Bachelor of Science</button>  
-                    <hr/> 
+                    <a href= "https://catalog.nau.edu/Catalog/details?plan=PLCITBS&mobile=true"><button>Computer Information Technology, Bachelor of Science</button> 
+                    <hr/>    
                            <br>
                        
                     <p><h2>What is Cybersecurity?</h2><br> 
@@ -52,45 +53,30 @@
 
                          <h2>★ Helpful Videos For Teens & Kids ★</h2>
                             ★<a href="https://www.youtube.com/watch?v=sdpxddDzXfE">Cybersecurity explained for teens and kids. ~ Video</a><br>
-                            ★<a href="https://www.youtube.com/watch?v=HxySrSbSY7o">Being Safe on the Internet ~ Video</a></p>
+                            ★<a href="https://www.youtube.com/watch?v=HxySrSbSY7o">Being Safe on the Internet ~ Video</a>
                             <hr>
 
                          <h2>★ Helpful Books To Learn More ★</h2>
                             ★<a href="https://www.barnesandnoble.com/w/oh-no-hacked-again-zinet-kemal/1141373070">Oh, No... Hacked Again! by Zinet Kemal. ~ Childrens Book</a><br>
                             ★<a href="https://www.barnesandnoble.com/w/help-your-kids-with-computer-science-dk/1127203764?ean=9781465473608">Help Your Kids with Computer Science by DK ~ Childrens Book</a><br>
-                            ★<a href="https://www.barnesandnoble.com/w/how-cybersecurity-really-works-sam-grubb/1138326876?ean=9781718501287">How Cybersecurity Really Works…by Sam Grubb</a></p><br>
+                            ★<a href="https://www.barnesandnoble.com/w/how-cybersecurity-really-works-sam-grubb/1138326876?ean=9781718501287">How Cybersecurity Really Works…by Sam Grubb</a><br>
                             <hr>
 
                          <h2>Search Features</h2> 
                              <div><img src="http://www.w3.org/2003/glossary/w3c_gloss" alt="Glossary Reference" title="Glossary"> <form action= "https://www.w3.org/2003/glossary/">
                                 <input type="text" name="q" >
                                 <button>Search W3</button>
-                                </form></a></div>
+                                </form></div>
 
                                 <div><img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google Search" title="Google"> <form action= "https://www.google.com/">
                                 <form action= "http://google.com/search">
                                 <input type="text" name="q" >
                                 <button>Search Google</button>
                                 </form>
-
+</body>
 
 
 <!--<footer>Antigone H. Norgaard
 e-mail: an864@nau.edu
 </footer>
 -->
-</body>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
