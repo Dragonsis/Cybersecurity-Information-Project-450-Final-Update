@@ -74,8 +74,4 @@ Hello, Please review my html code. Thanks-->
                                 <button>Search Google</button>
                                 </form>
 
-
-<!--<footer>Antigone H. Norgaard
-e-mail: an864@nau.edu
-</footer>
 -->
